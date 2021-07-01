@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GiacomoGitHub, a mindfulness, yoga, and Italian language teacher living between Italy and Russia.
-- 👀 I’m interested in web development, mindfulness meditation, antifragility, languages, UX design, philosophy, photography.
+- 👀 I’m interested in web development, antifragility related to project management, languages, UX design, philosophy, photography.
 - 🌱 I’m currently learning web development and project management.
 - 💞️ I’m looking to collaborate on interesting projects related to mindfulness and human flourishing in general.
 - 📫 How to reach me www.giacomopodda.com.
